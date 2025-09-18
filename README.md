@@ -1,7 +1,7 @@
 # HR Management Analytics – Power BI Dashboard  
 
 ## Overview  
-This project delivers an interactive **HR Management Analytics Dashboard** developed in Power BI. It provides a comprehensive view of workforce dynamics, helping HR managers and executives monitor headcount, hiring, turnover, retention, diversity, and labor costs over time.  
+This project delivers an interactive **HR Management Analytics Dashboard** developed in Power BI. It provides a comprehensive view of workforce dynamics, helping HR managers and executives monitor headcount, hiring, turnover, retention and diversity.
 
 ## Objectives  
 The goal of this dashboard is to enable **data-driven HR decision-making** by:  
